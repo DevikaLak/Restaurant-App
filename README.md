@@ -6,7 +6,7 @@ Install Gulp as instructed in Lesson 3 (Powerful Builds) of JavaScript Tools & T
 
 # Instructions to run with Gulp
 
-Navigate to the project root directory and run the following commands in terminal:
+Navigate to the project root directory (`Restaurant-App/devika-restaurant-app-stage1/`) and run the following commands in terminal:
 * `npm install gulp-sass`
 * `npm install gulp-autoprefixer`
 * `npm install browser-sync`
