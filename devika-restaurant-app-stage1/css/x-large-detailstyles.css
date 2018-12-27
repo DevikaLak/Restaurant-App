@@ -66,7 +66,8 @@ nav h1 a {
   background-color: #eee;
   font-size: 17px;
   margin: 0;
-  width: calc(50% - 80px); }
+  width: calc(50% - 80px);
+  text-align: left; }
 
 /* Display list items side by side */
 #breadcrumb li {
@@ -188,12 +189,13 @@ body {
 #reviews-container {
   margin: 0% 5%; }
 
-#reviews-container h2 {
+#reviews-container > h3 {
   color: #a0300d;
   font-size: 24pt;
   font-weight: 300;
   letter-spacing: -1px;
-  padding-bottom: 1pt; }
+  padding-bottom: 1pt;
+  margin: 10px 0px 0px 0px; }
 
 #reviews-list {
   margin: 0;
@@ -218,7 +220,7 @@ body {
   display: block;
   list-style-type: none;
   overflow: hidden;
-  margin: 5% 0%;
+  margin: 10px 0%;
   position: relative;
   width: 85%; }
 
