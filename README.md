@@ -10,3 +10,4 @@ Navigate to the project root directory and run the following commands in termina
 * `npm install gulp-sass`
 * `npm install gulp-autoprefixer`
 * `npm install browser-sync`
+* `gulp`
