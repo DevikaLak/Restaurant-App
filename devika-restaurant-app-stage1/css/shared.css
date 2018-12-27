@@ -1,0 +1,24 @@
+/* CSS Document */
+.skip-link {
+  position: absolute;
+  top: -100px;
+  right: 0;
+  background: #f9f8f8;
+  color: #3F51B5;
+  font-size: 1.3em;
+  padding: 8px;
+  z-index: 100; }
+
+.skip-link:focus {
+  top: 0; }
+
+button:hover,
+button:focus {
+  background: #E91E63;
+  color: #FFFFFF;
+  text-decoration: underline; }
+
+button:focus {
+  outline: 0;
+  -webkit-box-shadow: 0 0 8px, 3px rgba(255, 255, 255, 0.8);
+          box-shadow: 0 0 8px, 3px rgba(255, 255, 255, 0.8); }
